@@ -1,4 +1,4 @@
-trojan://ffd4d86d-5168-4fe8-9b50-a4e380736d21@sgnf2.tangreny.com:10136?security=tls&headerType=none&type=tcp&sni=sgnf2.tangreny.com#%D8%AC%D8%AF%DB%8C%D8%AF+%D9%87%D9%85%D9%87+%D8%AE%D8%B7+%D9%87%D8%A7
-vless://5e3b6316-d4a7-4a5a-e203-809f4951dad5@49.13.29.3:40636?security=none&encryption=none&host=speedtest.net%2C+telewebion.com&headerType=http&type=tcp#%D8%AC%D8%AF%DB%8C%D8%AF
-vless://e847356b-c7e0-40bf-987d-3eb4d2cd6647@172.232.34.27:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com#%D8%B3%D8%B1%D9%88%D8%B1%DB%B2
-vless://f328bd85-f5cd-4dc1-a2fc-383af5fec94d@185.126.255.88:45077?security=reality&encryption=none&pbk=eBdj8fFccTPnnz966Cl7kTEQDASdCLu15YOgGPJbyTo&headerType=none&fp=chrome&spx=%2F%40DashV2ray&type=tcp&sni=www.speedtest.net&sid=218f8557#%D8%B3%D8%B1%D9%88%D8%B1%DB%B1
+trojan://11460aff-5be3-49f7-8790-7d0c868d9a42@jpnf.aitrjc.xyz:10244?security=tls&headerType=none&type=tcp&sni=jpnf.aitrjc.xyz#Amir1
+trojan://11460aff-5be3-49f7-8790-7d0c868d9a42@sg1.tangreny.com:10203?security=tls&headerType=none&type=tcp&sni=sg1.tangreny.com#Amir2
+trojan://11460aff-5be3-49f7-8790-7d0c868d9a42@usnf.tangreny.com:10138?security=tls&headerType=none&type=tcp&sni=usnf.tangreny.com#Amir3
+trojan://11460aff-5be3-49f7-8790-7d0c868d9a42@hk4.tangreny.com:10264?security=tls&headerType=none&type=tcp&sni=hk4.tangreny.com#Amir4
